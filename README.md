@@ -1,5 +1,8 @@
 # Exercice PHP  
 
+Forkez ce dépot à l'aide du bouton en haut à droite, puis clonez le fork obtenu, créez ensuite une branche avec votre pseudo et positionnez vous dessus pour coder vos solutions.
+Quand toutes les solutions vous semblent bonnes, faites une pull request (bouton à gauche "New pull request") pas de la branche master mais de celles comportant votre pseudo.
+
 ## Exo 1  
 Ajoutez/incluez le fichier header.php en début du fichier index.php et le fichier footer.php tout en bas afin de génèrer un fichier html complet  
 
