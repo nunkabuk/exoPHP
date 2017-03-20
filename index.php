@@ -1,6 +1,3 @@
-<?php
-  include_once("includes/header.php");
-?>
 
 <!-- Exo 2 -->
     <p>
@@ -17,16 +14,4 @@ $personnes = array(
   3 => array('prenom' => 'Marta', 'nom' => 'Blanca', 'telephone' => '003311111'),
   4 => array('prenom' => 'John', 'nom' => 'Doe', 'telephone' => '004411111')
 );
-
-foreach($personnes as $personne){
-  if(in_array('Dain', $personne)){
-    echo "Mme Dain est présente";
-  }
-}
-
-
-?>
-
-<?php
-  include_once("includes/footer.php");
 ?>
